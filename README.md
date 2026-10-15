@@ -1,4 +1,4 @@
-## Hi, I'm efdoming-alt
+## About me
 
 I'm a computer science student. I build desktop tools for Windows, mostly local-first apps that keep data on your own machine and AI tools where a person stays in control of every change.
 
