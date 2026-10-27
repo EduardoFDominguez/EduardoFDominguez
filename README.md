@@ -9,7 +9,7 @@ I build with AI-assisted development (Claude Code). What I focus on is the parts
 | Project | What it is | Stack |
 |---|---|---|
 | [AI Coding Workbench](projects/ai-coding-workbench.md) | Desktop app that drafts a project with an LLM, then has Claude Code review it, with human approval gates enforced by a Rust state machine and tied to content hashes | Tauri, Rust, React, TypeScript, SQLite |
-| [Personal OS](projects/personal-os.md) | Command center for tasks, course deadlines, bills and job applications, stored as plain Markdown in Obsidian with conflict-safe writes | Python, Tkinter |
+| [Personal OS](projects/personal-os.md) | Desktop planner with a class-deadline dashboard, daily check-in and weekly review, stored as plain Markdown in Obsidian with conflict-safe writes | Python, Tkinter |
 | [Local AI Assistant](projects/local-ai-assistant.md) | Chat assistant on a local LLM (Ollama) that can only *propose* file changes and scripts; nothing runs without approval | Python (standard library), Tkinter |
 | [Claude Selection Formatter](projects/obsidian-claude-formatter.md) | Obsidian plugin that turns highlighted notes into structured study notes in one undoable step | TypeScript, Obsidian API |
 
