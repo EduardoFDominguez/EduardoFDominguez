@@ -12,6 +12,7 @@ I build with AI-assisted development (Claude Code). What I focus on is the parts
 | [Personal OS](projects/personal-os.md) | Desktop planner with a class-deadline dashboard, daily check-in and weekly review, stored as plain Markdown in Obsidian with conflict-safe writes | Python, Tkinter |
 | [Local AI Assistant](projects/local-ai-assistant.md) | Chat assistant on a local LLM (Ollama) that can only *propose* file changes and scripts; nothing runs without approval | Python (standard library), Tkinter |
 | [Claude Selection Formatter](projects/obsidian-claude-formatter.md) | Obsidian plugin that turns highlighted notes into structured study notes in one undoable step | TypeScript, Obsidian API |
+| [Local Study Assistant](projects/local-study-assistant.md) | Study sidebar that explains questions step by step with a local model, plus searchable notes and documents; early development | Tauri, Rust, React, Python, Ollama |
 
 The source code for these projects is private. Each link above goes to a write-up of what the project does, how it's designed and how it's tested. I'm happy to walk through the code on request.
 
